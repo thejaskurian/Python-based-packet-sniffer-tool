@@ -1,4 +1,4 @@
-# PRODIGY_CS_05
+# Python-based packet sniffer tool
 
 ## Overview
 
